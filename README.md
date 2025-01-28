@@ -10,6 +10,8 @@
 
 ## You should have a xlsx file named as credentials, Which should have all emails and passwords for login
 
+* The accounts should be logined at least once in your browser or you can use specific proxies for logined credentials.
+
 ## You should have a xlsx file named as receptions, Which should have all emails address for sending mails to them. 
 
  
